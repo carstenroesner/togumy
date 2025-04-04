@@ -23,7 +23,7 @@ apt install -y build-essential libcairo2-dev libjpeg-turbo8-dev libpng-dev \
   freerdp2-dev libpango1.0-dev libssh2-1-dev libtelnet-dev libvncserver-dev \
   libpulse-dev libssl-dev libvorbis-dev libwebp-dev gcc mysql-server mysql-client \
   wget curl unzip libjpeg-dev libpng-dev libtool autoconf automake \
-  maven default-jdk tomcat-native
+  maven default-jdk
 
 # ----------------------------
 # Install Tomcat 9
